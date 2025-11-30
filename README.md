@@ -52,11 +52,14 @@ Model Waveform
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 Program
+<img width="1920" height="1200" alt="Screenshot 2025-10-08 225247" src="https://github.com/user-attachments/assets/bfe85c75-9fb2-47df-9fc2-2310dd2a07c4" />
 
 OUTPUT WAVEFORM
+<img width="1920" height="1200" alt="Screenshot 2025-10-08 225308" src="https://github.com/user-attachments/assets/6fe1701c-2f02-4997-aca1-cc7a32c6c7d2" />
 
 TABULATION
 
+![ssbsc-anal](https://github.com/user-attachments/assets/7f9573c5-95ae-47d4-b2a9-738927da168d)
 
 
 
